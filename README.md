@@ -4,4 +4,5 @@ explore two things i enjoy: Politics and Data Science
 
 1. <b>functions.py:</b> This contains functions i reuse when doing ETL on tweets i pull from twitter.
 2. <b>Pull Tweets.ipynb:</b> This iPython notebook contains code i used to pull tweets from twitter based on a specific hastag
-3. <b>Biden_Press_Conference_Sentiment_Analysis.ipynb:</b> This iPython notebook contains code i used to perform sentiment analysis on tweets with the hashtag: #bidenpressconference
+3. <b>Biden_Press_Conference_Sentiment_Analysis.ipynb:</b> This iPython notebook contains code i used to perform sentiment analysis on tweets with the hashtag: #bidenpressconference. I made use of the Spark NLP pretrained Sentiment Analysis classifier
+4. <b>Final Twitter Sentiment Analysis Model.ipynb:</b> This Google Colab Book contains code i used to train a CovNet classifier using the Twitter Sentiment Analysis dataset.
